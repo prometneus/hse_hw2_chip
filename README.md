@@ -30,8 +30,13 @@ GC состав:
 
 ![image](https://user-images.githubusercontent.com/86663451/157296537-9c267481-8ecc-4833-8ed7-5c68565e41e3.png)
 
-# Statistic table of aligning on X chromosome:
+# Statistic table of aligning on X chromosome
 
+|Index|Reads|Unique alignment|Not unique alignment|Not aligned|
+|---|---|---|---|---|
+| ENCFF000BGA | 12426059 | 316786 (2.55%) | 1444075 (11.62%) | 10665198 (85.83%) |
+| ENCFF000BGD | 15122630 | 423471 (2.80%) | 1677260 (11.09%) | 13021899 (86.11%) |
+| ENCFF066LYG | 17162591 | 565071 (3.29%) | 1705577 (9.94%) | 14891943 (86.77%) |
 
 
 # Venn Diagrams
