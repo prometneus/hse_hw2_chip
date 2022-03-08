@@ -41,13 +41,15 @@ GC состав:
 
 # Venn Diagrams
 ## BGA intersection with known peaks from Encode
-![image](Venn Diagrams\BGA1.pdf)
+![image](Venn Diagrams/BGA1.pdf)
 
 ## Known peaks from Encode intersection with BGA
-![image](Venn Diagrams\BGA2.pdf)
+![image](Venn Diagrams/BGA2.pdf)
 
 ## BGD intersection with known peaks from Encode
-![image](Venn Diagrams\BGD1.pdf)
+![image](Venn Diagrams/BGD1.pdf)
 
 ## Known peaks from Encode intersection with BGD
-![image](Venn Diagrams\BGD2.pdf)
+![image](Venn Diagrams/BGD2.pdf)
+
+Такое малое количество пересечений связано с тем, что выравнивание производилось только на одну-единственную хромосому -- chrX, а Encode предоставляет информацию с пиками для всех хромосом. 
