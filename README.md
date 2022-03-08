@@ -22,7 +22,7 @@ GC состав:
 
 ![image](https://user-images.githubusercontent.com/86663451/157295750-328b0827-e74a-4640-abcf-64277312693c.png)
 
-А вот гэпов вообще не осталось, что не может не радовать:
+А вот гэпов вообще практически не осталось, что не может не радовать:
 
 ![image](https://user-images.githubusercontent.com/86663451/157295883-02c91ad3-9308-4f09-a53e-050540048067.png)
 
@@ -30,3 +30,8 @@ GC состав:
 
 ![image](https://user-images.githubusercontent.com/86663451/157296537-9c267481-8ecc-4833-8ed7-5c68565e41e3.png)
 
+# Statistic table of aligning on X chromosome:
+
+
+
+# Venn Diagrams
