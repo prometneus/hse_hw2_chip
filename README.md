@@ -42,7 +42,7 @@ GC состав:
 
 # Venn Diagrams
 ## BGA intersection with known peaks from Encode
-![image](Venn%20Diagrams/BGA1.pdf)
+![image](https://github.com/prometneus/hse_hw2_chip/blob/master/Venn%20Diagrams/BGA1.pdf)
 
 ## Known peaks from Encode intersection with BGA
 ![image](Venn%20Diagrams/BGA2.pdf)
