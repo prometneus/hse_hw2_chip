@@ -1,6 +1,6 @@
 # hse_hw2_chip
 
-Ссылка на Google Colab: https://colab.research.google.com/drive/1qnH61N7iZLgjByzsEnZLekWRmTcurRh_?usp=sharing
+[Google Colab](https://colab.research.google.com/drive/1qnH61N7iZLgjByzsEnZLekWRmTcurRh_?usp=sharing)
 
 Клеточная линия -- HepG2
 Гистоновая метка -- H3K4me2
@@ -40,3 +40,14 @@ GC состав:
 
 
 # Venn Diagrams
+## BGA intersection with known peaks from Encode
+![image](Venn Diagrams\BGA1.pdf)
+
+## Known peaks from Encode intersection with BGA
+![image](Venn Diagrams\BGA2.pdf)
+
+## BGD intersection with known peaks from Encode
+![image](Venn Diagrams\BGD1.pdf)
+
+## Known peaks from Encode intersection with BGD
+![image](Venn Diagrams\BGD2.pdf)
