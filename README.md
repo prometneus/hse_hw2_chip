@@ -59,4 +59,4 @@ GC состав:
 
 # Bonus task
 
-![image](resultBGA.png)
+![image](resultBGA(OTY).png)
