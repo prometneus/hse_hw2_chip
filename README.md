@@ -61,3 +61,4 @@ GC состав:
 
 ![image](resultBGA.png)
 
+
